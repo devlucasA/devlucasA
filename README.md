@@ -35,7 +35,7 @@
 ### Studying in this moment:
 ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-0D1117.svg?style=for-the-badge&logo=openjdk&logoColor=orange)
-
+![Dart](https://img.shields.io/badge/dart-0D1117.svg?style=for-the-badge&logo=openjdk&logoColor=blue)
 
 
 <div align="center">
