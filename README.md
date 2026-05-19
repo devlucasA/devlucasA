@@ -14,7 +14,8 @@
     <img align="center" alt="Lucas-DART" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dart/dart-original.svg" />
       <img align="center" alt="Lucas-ASSEMBLY" height="30" width="40" src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" />
         <img align="center" alt="Lucas-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" />
-        <img align="center" alt="Lucas-GAMEMAKER" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gamemaker/gamemaker-original.svg](https://user-images.githubusercontent.com/60024796/170530530-b17fc2f4-91ad-4b2b-ad58-d6d4b3ed9aac.png)" />
+        <img align="center" alt="Lucas-GAMEMAKER" height="30" width="40" 
+          src="https://user-images.githubusercontent.com/60024796/170530530-b17fc2f4-91ad-4b2b-ad58-d6d4b3ed9aac.png" />
 </div><br>
 
 
